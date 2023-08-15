@@ -2,7 +2,7 @@
 
 In this section, you have code samples to create a captivating layout where a product image takes the spotlight, surrounded by dynamic icons and engaging subtext. This layout is designed to draw attention to your product while providing additional information in an aesthetically pleasing way.
 
-![Product Centerpiece](./central-product-image-layout/preview/desktop.png)
+![Product Centerpiece](./preview/desktop.png)
 
 ## Overview
 
@@ -17,6 +17,6 @@ The "Product Centerpiece" layout is a visually striking way to showcase a produc
 - Ensure responsive design to maintain the layout's effectiveness on various screen sizes.
 
 ## Preview 
-![Product Centerpiece](./central-product-image-layout/preview/desktop.png)
-![Product Centerpiece](./central-product-image-layout/preview/tablet.png)
-![Product Centerpiece](./central-product-image-layout/preview/phone.png)
+![Product Centerpiece](./preview/desktop.png)
+![Product Centerpiece](./preview/tablet.png)
+![Product Centerpiece](./preview/phone.png)
