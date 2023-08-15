@@ -1,0 +1,92 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #faf6f0;
+}
+
+.product-layout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1200px;
+    min-height: 100dvh;
+    padding-inline: min(16px, 5vw);
+    padding-block: max(16px, 5vh);
+    margin-inline: auto;
+}
+
+.layout-title {
+    margin-inline: auto;
+    font-size: 3.6rem;
+    font-weight: 100;
+    margin-block: 0.5rem;
+}
+
+.layout-subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: 360;
+    margin-block-end: 1.5rem;
+}
+
+.emphased {
+    font-family: serif;
+    font-style: italic;
+}
+
+.features {
+    display: grid;
+    grid-template:
+        "a b b c"
+        "d b b e"
+        ". f f .";
+    align-items: center;
+}
+
+.feature-item  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-1 { grid-area: a; }
+
+.item-2 { 
+    grid-area: b; 
+    margin-inline: auto;
+}
+
+.item-3 { grid-area: c; }
+
+.item-4 { grid-area: d; }
+
+.item-5 { grid-area: e; }
+
+.item-6 { grid-area: f; }
+
+.product-image {
+    width: max(20rem, 100%);
+}
+
+.subtext {
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: 300;
+    max-width: 300px;
+}
+
+.action-button {
+    font-size: larger;
+    color: white;
+    border: 1px solid #2e2e2e;
+    background-color: #2e2e2e;
+    border-radius: 40px;
+    margin-inline: auto;
+    margin-block: 2rem;
+    padding-inline: 3rem;
+    padding-block: 1.2rem;
+}
