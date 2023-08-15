@@ -8,13 +8,14 @@ Have you ever wanted to take your web design skills to the next level? This repo
 
 ## Repository Link
 
-🔗 [Check out the Innovative Layout Sections Showcase](https://github.com/your-username/innovative-layouts)
+🔗 [Check out the Innovative Layout Sections Showcase](https://github.com/glody007/web-section-showcase.git)
 
 ## Subdirectories
 
 Explore the various innovative layout sections in this repository:
 
 1. [Product Centerpiece](./central-product-image-layout): Learn how to create a layout where a captivating product image takes the spotlight, surrounded by dynamic icons and engaging subtext.
+![Product Centerpiece](./central-product-image-layout/preview/desktop.png)
 
 Each subdirectory contains its own README with detailed instructions, code samples, and screenshots. Feel free to explore, experiment, and integrate these innovative layouts into your projects!
 
